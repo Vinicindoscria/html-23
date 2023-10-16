@@ -2,34 +2,16 @@ h1 {
     font-size: 50px;
     text-align: center;
     color: aqua;
-    background: linear-gradient(to left, purple, pink) ;
+    background: linear-gradient(to left, green, darkgreen) ;
     }
     body {background: linear-gradient(to right,skyblue,dodgerblue);
    }
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   h2 {
+    font-size: 50px;
+    text-align: center;
+    color: aqua;
+    background: linear-gradient(to left, green, darkgreen) ;
+    }
+   div {
+    text-align: center;
+   }
