@@ -5,7 +5,10 @@ h1 {
     background: linear-gradient(to left, green, darkgreen) ;
     }
     body {background: linear-gradient(to right,skyblue,dodgerblue);
-   }
+   border-color: blue;
+   border-width: 15px;
+   border-style: solid;
+    }
    h2 {
     font-size: 50px;
     text-align: center;
